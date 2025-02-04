@@ -3,12 +3,13 @@
 # **WebSocket Chatting Application with AI Support**
 
 A real-time chat application built using **Spring Boot** and **WebSockets**, with **AI-powered message suggestions** integrated via the **Gemini API**. This project allows multiple users to join chat rooms, send messages, and receive intelligent AI-generated responses, enhancing the overall chat experience.
-![Screenshot 2025-02-04 181628](https://github.com/user-attachments/assets/2a34a332-112f-4b33-bafd-19b048696614)
+![Screenshot 2025-02-04 150604](https://github.com/user-attachments/assets/a58805c9-13ad-42d5-9050-cec7c91279f3)
+
 
 ---
 
 ## **Features**
-![Screenshot 2025-02-04 150604](https://github.com/user-attachments/assets/a58805c9-13ad-42d5-9050-cec7c91279f3)
+![Screenshot 2025-02-04 181628](https://github.com/user-attachments/assets/2a34a332-112f-4b33-bafd-19b048696614)
 - 🔴 **Real-Time Messaging:** Seamless communication using WebSockets and STOMP protocol.
 - 👥 **User Management:** Users can join or leave chat rooms dynamically.
 - 💬 **AI-Powered Replies:** Integrated **Gemini API** for generating smart reply suggestions.
